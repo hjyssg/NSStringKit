@@ -1,11 +1,8 @@
-NSStringKit
-Created By HJY
-www.hjyssg.com
+##NSStringKit: A simple category of NSString
+
+Created By HJY  
+www.hjyssg.com  
 Use it whatever you want
-===========
-
-A simple category to add some functions to NSString
-
 
 //check if the string has a substring       
 -(void)hasSubstring:(NSString *)str;
@@ -18,4 +15,8 @@ A simple category to add some functions to NSString
 
 //check if the string match a regex pattern   
 -(BOOL)matchRegex:(NSString *)regex;
+
+//java-like trim. delete leading and trailing whitespace  
+-(NSString *)trim; 
+
 
