@@ -1,5 +1,6 @@
 NSStringKit
 Created By HJY
+www.hjyssg.com
 Use it whatever you want
 ===========
 
