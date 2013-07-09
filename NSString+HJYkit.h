@@ -21,5 +21,8 @@
 //check if the string match a regex pattern
 -(BOOL)matchRegex:(NSString *)regex;
 
+//java-like trim. delete leading and trailing whitespace
+-(NSString *)trim;
+
 
 @end
