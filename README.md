@@ -19,4 +19,3 @@ Use it whatever you want
 //java-like trim. delete leading and trailing whitespace  
 -(NSString *)trim; 
 
-Make some change herehuigsagvvsdfavyulsdfafyulfvsdyuzvsdyulavsdyasdd
